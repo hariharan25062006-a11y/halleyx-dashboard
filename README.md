@@ -204,17 +204,6 @@ VITE_API_URL=http://localhost:5000
 | Tablet | 8 columns | 768px – 1024px |
 | Mobile | 4 columns | < 768px |
 
-## Screenshots
-
-### Dashboard Config Editor
-![Dashboard Config Editor](screenshots/dashboard_config.png)
-
-### Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
-### Customer Orders
-![Customer Orders](screenshots/customer_orders.png)
-
 ## Author
 - Name: Hariharan
 - GitHub: github.com/hariharan25062006-a11y

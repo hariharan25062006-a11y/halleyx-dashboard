@@ -205,7 +205,15 @@ VITE_API_URL=http://localhost:5000
 | Mobile | 4 columns | < 768px |
 
 ## Screenshots
-> Screenshots will be added after final deployment.
+
+### Dashboard Config Editor
+![Dashboard Config Editor](screenshots/dashboard_config.png)
+
+### Dashboard Preview
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
+### Customer Orders
+![Customer Orders](screenshots/customer_orders.png)
 
 ## Author
 - Name: Hariharan

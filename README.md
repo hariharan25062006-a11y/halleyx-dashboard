@@ -15,6 +15,9 @@ The core feature is an interactive, drag-and-drop dashboard canvas that reads da
 
 There are 7 distinct widget types available out-of-the-box, including graphical Bar, Line, Area, Scatter, and Pie charts powered by Recharts, alongside comprehensive Data Tables and highly visible aggregated KPI Cards.
 
+## Demo Video Link
+https://drive.google.com/drive/folders/1JGXjoMgOL0Le_YeC13xkVIr30iV-mlGy?usp=sharing
+
 ## Features
 
 **Dashboard Builder**
